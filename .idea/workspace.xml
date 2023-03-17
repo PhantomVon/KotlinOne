@@ -5,13 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="25570a4f-5ddd-41a3-a14a-1d47cd24063b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Arrays.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/MethodOverloading.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/UserDefinedFunctions.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/inbuiltFunctions.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/oop/ClassesAndObjects.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/oop/Encapsulation.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/oop/InheritanceAndPolymorphism.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MidMorningKotlinTwo/META-INF/MidMorningKotlinTwo.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MidMorningKotlinTwo/META-INF/MidMorningKotlinTwo.kotlin_module" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
